@@ -1332,26 +1332,23 @@ footer a:hover {
   border-radius: 12px;
   box-shadow: 0 4px 14px rgba(0,0,0,0.06);
 }
-/* Keep navbar logo and menu separate — avoid overlap */
-.navbar-header {
-  min-width: 120px;      /* ensure space for the logo */
-}
+/* Make navbar more compact so items don't slide under the logo */
 
+/* shrink the logo */
 .navbar-brand img {
-  height: 40px !important;  /* shrink logo height if needed */
-  width: 40px !important;
+  height: 30px !important;
+  width: 30px !important;
 }
 
-.navbar-nav {
-  margin-right: 20px;    /* ensure menu is not flush against the right edge */
+/* shrink navbar text and padding */
+.navbar-nav > li > a {
+  padding-left: 6px;
+  padding-right: 6px;
+  font-size: 0.9rem;
 }
-/* Tighter spacing between navbar items */
+
+/* remove extra gap between items */
 .navbar-nav > li {
   margin-left: 0;
   margin-right: 0;
-}
-
-.navbar-nav > li > a {
-  padding-left: 10px;
-  padding-right: 10px;
 }
