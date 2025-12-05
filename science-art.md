@@ -1,14 +1,20 @@
 ---
 layout: page
-title: sci art
+title: Sci-art
 permalink: /sci-art/
 ---
 
-This is a gallery of **science-inspired art** — pastel, minimal illustrations based on cells, chromatin, neural systems, and developmental patterns.
+## Gallery
 
-In time, this page will include:
-- standalone illustrations  
-- visual abstracts  
-- elements from explainers and carousels  
+### Unpack dense science with Sciontho! (2025)
+![Sciontho](/assets/img/sci-art/ScionthoFinal.png){: .sciart }
 
-For now, it’s a home for science-art that aims to make complex ideas feel gentle and approachable.
+---
+
+### Pastel Neuron
+![Pastel Neuron](/assets/img/sci-art/neuron-pastel.png){: .sciart }
+
+---
+
+### Cell Division (Pastel)
+![Cell Division](/assets/img/sci-art/cell-division-soft.png){: .sciart }
