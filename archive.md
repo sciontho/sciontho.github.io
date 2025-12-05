@@ -15,7 +15,7 @@ A small collection of older work, posts and things I’ve shared elsewhere.
   [Read here.](https://x.com/Ayontho/status/1995509421687128533)
 
 - **Mirror, mirror on the wall...** — ... who's the most self-aware of them all? Can animals recognize themselves in the mirror? What does it mean if they can?
-  [Read here.](https://x.com/Ayontho/status/1995509421687128533)
+  [Read here.](https://sciwri.club/archives/14371)
 
 ---
 
