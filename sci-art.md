@@ -4,7 +4,7 @@ title: Sci-art
 permalink: /sci-art/
 ---
 
-A small gallery of science-inspired art — pastel, minimal illustrations about behaviour, development, and doing science.
+A small gallery of science-inspired art.
 
 ---
 
@@ -37,27 +37,31 @@ A small gallery of science-inspired art — pastel, minimal illustrations about 
 
 </div>
 
-<div id="scroll-view" style="display:none;">
-  
-## Gallery
+<div id="scroll-view" markdown="1" style="display:none;">
+
+## Gallery (scroll view)
 
 ### Unpack dense science with Sciontho! (2025)
+
 ![Sciontho](/assets/img/sci-art/Sciontho.png){: .sciart }
 
 ---
 
 ### Mirror self-recognition test — a classic behavioural experiment used to study self-awareness in animals
+
 ![Mirror mirror](/assets/img/sci-art/MirrorMirror.png){: .sciart }
 
 ---
 
 ### The Development and Behaviour Journal Club at the BLiSc campus, Bangalore
+
 ![DBJC](/assets/img/sci-art/DBJC.png){: .sciart }
 
 ---
 
-### The Development and Behaviour Journal Club at the BLiSc campus, Bangalore
-![DBJC](/assets/img/sci-art/MyPhD.png){: .sciart }
+### My PhD — the long, winding path through research
+
+![My PhD](/assets/img/sci-art/MyPhD.png){: .sciart }
 
 </div>
 
