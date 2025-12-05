@@ -1124,3 +1124,99 @@ pre {
     display: inline-block;
   }
 }
+/* === Custom Pastel Science-Art Theme === */
+
+/* Base layout */
+body {
+  background-color: #FFF1AA; /* soft pastel yellow */
+  color: #222222; /* dark grey text */
+}
+
+/* Links */
+a,
+a:visited {
+  color: #7AA6FF; /* pastel blue */
+}
+
+a:hover,
+a:focus {
+  color: #FFBFA3; /* soft coral hover */
+  text-decoration: none;
+}
+
+/* Navbar */
+.navbar-default {
+  background-color: #FFF7D6; /* pale pastel yellow */
+  border-color: #F9E7A8;
+}
+
+.navbar-default .navbar-brand,
+.navbar-default .navbar-nav > li > a {
+  color: #444444;
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-nav > li > a:hover {
+  color: #FFBFA3; /* coral highlight */
+}
+
+/* Header (Jumbotron) */
+.intro-header {
+  /* pastel lavender → blush pink → soft coral gradient */
+  background: linear-gradient(
+    135deg,
+    #A8C5FF 0%,
+    #FFC6D9 50%,
+    #FFBFA3 100%
+  );
+  color: #222222;
+}
+
+.intro-header .page-heading h1,
+.intro-header .post-heading h1,
+.intro-header .site-heading h1 {
+  color: #222222;
+}
+
+.intro-header .page-heading .subheading,
+.intro-header .post-heading .subheading,
+.intro-header .site-heading .subheading {
+  color: #333333;
+}
+
+/* Buttons */
+.btn-primary {
+  background-color: #FFBFA3; /* soft coral */
+  border-color: #FFBFA3;
+  color: #222222;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active {
+  background-color: #FF8F70; /* slightly deeper coral */
+  border-color: #FF8F70;
+  color: #222222;
+}
+
+/* Post Preview Cards */
+.post-preview {
+  border-radius: 10px;
+  padding: 15px;
+  background-color: #FFFFFF;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.05);
+}
+
+/* Footer */
+footer {
+  background-color: #FFF7D6; /* pale matching yellow */
+  color: #555555;
+}
+
+footer a {
+  color: #7AA6FF;
+}
+
+footer a:hover {
+  color: #FFBFA3; /* coral */
+}
