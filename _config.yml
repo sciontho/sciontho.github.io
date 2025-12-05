@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Drawn to Science
+title: Sci-On
 
 # Your name to show in the footer
 author: Ayanthi Bhattacharya
@@ -21,9 +21,10 @@ author: Ayanthi Bhattacharya
 
 navbar-links:
   PoW-wow: "pow-wow"
+  Drawn to Science: "drawn-to-science"
   Sci-art: "science-art"
-  Archive: "archived"
-  About me: "about"
+  Archive: "archive"
+  Contact: "contact"
 
 ################
 # --- Logo --- #
@@ -49,21 +50,20 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  email: "sciontho@gmail.com"
+# facebook: deanattali
+# github: daattali
+  twitter: @Ayontho
+# patreon: DeanAttali
+# youtube: "@daattali"
+#  whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
-#  linkedin: daattali
+   linkedin: Ayanthi Bhattacharya
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+   instagram: ayontho9279
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -73,7 +73,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  bluesky: yourname
-#  ORCID: your ORCID ID
+   ORCID: 0000-0001-8595-4492
 #  google-scholar: your google scholar
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
 #  kaggle: yourname
@@ -94,7 +94,7 @@ rss-description: This website is a virtual proof that I'm awesome
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   linkedin: true
   vk: false
   reddit: false
