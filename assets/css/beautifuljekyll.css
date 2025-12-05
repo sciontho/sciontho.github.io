@@ -1352,3 +1352,10 @@ footer a:hover {
   margin-left: 0;
   margin-right: 0;
 }
+@media (max-width: 1200px) {
+  .navbar-nav > li > a {
+    padding-left: 8px;
+    padding-right: 8px;
+    font-size: 0.95rem;
+  }
+}
