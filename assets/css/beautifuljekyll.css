@@ -1124,99 +1124,99 @@ pre {
     display: inline-block;
   }
 }
-/* === Custom Pastel Science-Art Theme === */
+/* === Custom Pastel Science-Art Theme (Cream + Coral + Mint) === */
 
 /* Base layout */
 body {
-  background-color: #FFF1AA; /* soft pastel yellow */
-  color: #222222; /* dark grey text */
+  background-color: #FDFCF0; /* creamy paper background */
+  color: #4A4A4A;            /* faded ink text */
 }
 
 /* Links */
 a,
 a:visited {
-  color: #7AA6FF; /* pastel blue */
+  color: #FF9AA2; /* soft coral */
 }
 
 a:hover,
 a:focus {
-  color: #FFBFA3; /* soft coral hover */
+  color: #B5EAD7; /* mint */
   text-decoration: none;
 }
 
 /* Navbar */
 .navbar-default {
-  background-color: #FFF7D6; /* pale pastel yellow */
-  border-color: #F9E7A8;
+  background-color: #FFF5BA; /* butter yellow */
+  border-color: #F2E7A2;
 }
 
 .navbar-default .navbar-brand,
 .navbar-default .navbar-nav > li > a {
-  color: #444444;
+  color: #4A4A4A; /* faded ink */
 }
 
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-nav > li > a:hover {
-  color: #FFBFA3; /* coral highlight */
+  color: #FF9AA2; /* soft coral hover */
 }
 
-/* Header (Jumbotron) */
+/* Header (Jumbotron / Page hero section) */
 .intro-header {
-  /* pastel lavender → blush pink → soft coral gradient */
+  /* gentle pastel gradient: mint → coral → butter yellow */
   background: linear-gradient(
     135deg,
-    #A8C5FF 0%,
-    #FFC6D9 50%,
-    #FFBFA3 100%
+    #B5EAD7 0%,   /* mint */
+    #FF9AA2 50%,  /* soft coral */
+    #FFF5BA 100%  /* butter yellow */
   );
-  color: #222222;
+  color: #4A4A4A;
 }
 
 .intro-header .page-heading h1,
 .intro-header .post-heading h1,
 .intro-header .site-heading h1 {
-  color: #222222;
+  color: #4A4A4A;
 }
 
 .intro-header .page-heading .subheading,
 .intro-header .post-heading .subheading,
 .intro-header .site-heading .subheading {
-  color: #333333;
+  color: #4A4A4A;
 }
 
 /* Buttons */
 .btn-primary {
-  background-color: #FFBFA3; /* soft coral */
-  border-color: #FFBFA3;
-  color: #222222;
+  background-color: #B5EAD7; /* mint */
+  border-color: #B5EAD7;
+  color: #4A4A4A; /* faded ink text */
 }
 
 .btn-primary:hover,
 .btn-primary:focus,
 .btn-primary:active {
-  background-color: #FF8F70; /* slightly deeper coral */
-  border-color: #FF8F70;
-  color: #222222;
+  background-color: #A0D9C6; /* slightly deeper mint */
+  border-color: #A0D9C6;
+  color: #4A4A4A;
 }
 
-/* Post Preview Cards */
+/* Post preview cards */
 .post-preview {
   border-radius: 10px;
   padding: 15px;
-  background-color: #FFFFFF;
-  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.05);
+  background-color: #FFFFFF; /* white card on creamy page - good contrast */
+  box-shadow: 0 4px 14px rgba(0,0,0,0.04);
 }
 
 /* Footer */
 footer {
-  background-color: #FFF7D6; /* pale matching yellow */
-  color: #555555;
+  background-color: #FFF5BA; /* butter yellow */
+  color: #4A4A4A;
 }
 
 footer a {
-  color: #7AA6FF;
+  color: #FF9AA2; /* soft coral */
 }
 
 footer a:hover {
-  color: #FFBFA3; /* coral */
+  color: #B5EAD7; /* mint */
 }
