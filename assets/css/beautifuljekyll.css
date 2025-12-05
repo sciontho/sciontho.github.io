@@ -1240,3 +1240,24 @@ footer a:hover {
 .navbar-default .navbar-brand:hover {
   color: #FF9AA2 !important; /* soft coral hover */
 }
+/* === Footer Gradient Override === */
+
+footer {
+  background: linear-gradient(
+    135deg,
+    #B5EAD7 0%,    /* mint */
+    #FF9AA2 50%,   /* soft coral */
+    #FFF5BA 100%   /* butter yellow */
+  ) !important;
+
+  color: #4A4A4A !important; /* faded ink text */
+}
+
+/* Footer links */
+footer a {
+  color: #4A4A4A !important;
+}
+
+footer a:hover {
+  color: #FFFFFF !important; /* optional – white text on gradient hover */
+}
