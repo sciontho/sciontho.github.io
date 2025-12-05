@@ -20,9 +20,9 @@ author: Ayanthi Bhattacharya
 ###############################################
 
 navbar-links:
-  PoW-wow: "pow-wow"
-  DrawnToScience: "drawn-to-science"
-  Sci-art: "science-art"
+  "Pow-wow": "pow-wow"
+  "Sci-Art": "sci-art"
+  "DrawnToScience": "drawn-to-science"
   Archive: "archive"
   Contact: "contact"
 
