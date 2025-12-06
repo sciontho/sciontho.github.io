@@ -17,7 +17,7 @@ sometimes serious, mostly silly, often somewhere in between.
 
   <!-- Poem 1 -->
   <figure class="poem-card">
-    <img src="/assets/img/in-verse/tinbergen-poem.png" alt="Thinking Like Tinbergen – a science poem">
+    <img src="/assets/img/in-verse/AnouksFantasy.png" alt="Anouk's Fantasy – a science poem">
     <figcaption>
       <strong>Thinking Like Tinbergen</strong><br>
       A poem about four small questions we can ask of any behaviour.
