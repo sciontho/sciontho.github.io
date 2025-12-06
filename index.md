@@ -40,7 +40,7 @@ Use the navigation bar above to explore.
 
   {% assign featured_posts = site.posts | sort: "date" | reverse %}
 
-  {% for post in featured_posts limit:4 %}
+  {% for post in featured_posts limit:6 %}
     <a href="{{ post.url | relative_url }}" class="featured-card">
       <img src="{{ post.thumbnail | default: '/assets/img/sci-art/Sciontho.png' }}" alt="{{ post.title }}">
       <div class="featured-title">{{ post.title }}</div>
