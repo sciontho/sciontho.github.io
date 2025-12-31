@@ -21,7 +21,7 @@ permalink: /about-me/
 
 I am currently a graduate student at the Tata Institute for Genetics and Society. I study how neural precursor cells in *Drosophila* know which neurons to make - how they "read" positional and temporal cues to produce the right neuronal types. Broadly, I am interested in developmental biology, behaviour, and evo-devo. Outside the lab, I like to sing, draw, design, and write a little. Also, I sincerely believe in the unifying power of Bollywood dance moves, and I sometimes practise said moves with my cats, Mitthu and Kiki!
 
-[**View my CV**](/assets/files/AyanthiBhattacharya_CV.pdf){: .cv-button target="_blank"}
+[**View my CV**](/assets/files/AyanthiBhattacharya_CV_2025.pdf){: .cv-button target="_blank"}
 
 ---
 
