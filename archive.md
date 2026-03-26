@@ -8,8 +8,8 @@ A small collection of older work, posts and things I’ve shared elsewhere.
 
 ## Published elsewhere
 
-- **Chromatin priming and Hunchback recruitment integrate spatial and temporal cues in Drosophila neuroblasts (2025)** — My first, first-author research paper, now out as a pre-print on bioRxiv! 
-  [Read here.](https://www.biorxiv.org/content/10.1101/2025.11.25.690435v1)
+- **Chromatin priming and Hunchback recruitment integrate spatial and temporal cues in Drosophila neuroblasts (2025)** — My first, first-author research paper, now out in eLife (and previously on bioRxiv)!
+  [Read here.](https://elifesciences.org/reviewed-preprints/110150)
 
 - **Xplainer: How neural stem cells read spatial and temporal cues** — A short explainer thread breaking down the story behind our paper.
   [Read here.](https://x.com/Ayontho/status/1995509421687128533)
