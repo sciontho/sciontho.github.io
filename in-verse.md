@@ -19,8 +19,8 @@ sometimes serious, mostly silly, often somewhere in between.
   <figure class="poem-card">
     <img src="/assets/img/in-verse/AnouksFantasy.png" alt="Anouk's Fantasy – a science poem">
     <figcaption>
-      <strong>Thinking Like Tinbergen</strong><br>
-      A poem about four small questions we can ask of any behaviour.
+      <strong>Why are some of us more drawn to the fantastic than others?</strong><br>
+      A poem about <a href="https://sciwri.club/archives/13631" target="_blank" rel="noopener noreferrer">this wonderful article</a> written by Apeksha Srivastava. Illustration by Andreia Rocha.
     </figcaption>
   </figure>
 
