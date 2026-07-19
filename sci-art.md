@@ -32,7 +32,7 @@ A small gallery of science-inspired art.
 
   <figure>
     <img src="/assets/img/sci-art/MyPhD.png" alt="My PhD" />
-    <figcaption>My PhD — the long, winding path through research.</figcaption>
+    <figcaption>My PhD — from the egg to the fly: tracking a nervous system as it builds itself.</figcaption>
   </figure>
 
 </div>
